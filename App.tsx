@@ -227,7 +227,7 @@ const App = () => {
               <div className="lg:w-1/2 relative">
                 <div className="relative rounded-3xl overflow-hidden shadow-2xl border-8 border-white bg-slate-100">
                    <img 
-                    src="https://picsum.photos/seed/geometry/800/600" 
+                    src="https://picsum.photos/seed/mathstudy/800/600" 
                     alt="آموزش ریاضی آکادمی فولادی" 
                     className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-1000"
                   />

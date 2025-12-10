@@ -4,10 +4,10 @@ export const COURSES: Course[] = [
   {
     id: 1,
     title: "کلاس شروع از صفر ریاضی",
-    description: "آموزش کامل و پایه‌ای ریاضی از ابتدایی‌ترین مفاهیم. مناسب برای دانش‌آموزانی که می‌خواهند پایه خود را قوی کنند. (تخفیف ویژه موجود است)",
+    description: "آموزش کامل و پایه‌ای ریاضی از ابتدایی‌ترین مفاهیم. مناسب برای دانش‌آموزانی که می‌خواهند پایه خود را قوی کنند. (تخفیف ویژه برای دانش‌آموزان حضرت معصومه)",
     price: 1000000,
     level: "پایه هفتم تا نهم",
-    image: "https://picsum.photos/seed/algebra/800/600",
+    image: "https://picsum.photos/seed/mathzero/800/600",
     type: 'video',
     rating: 5
   },
@@ -17,7 +17,7 @@ export const COURSES: Course[] = [
     description: "جامع‌ترین دوره آموزشی شامل تدریس خط به خط کتاب درسی، حل تمرین‌های پرتکرار و نمونه سوالات امتحانی تالیفی خانم فولادی.",
     price: 12000000,
     level: "متوسطه اول",
-    image: "https://picsum.photos/seed/geometry/800/600",
+    image: "https://picsum.photos/seed/mathgeometry/800/600",
     type: 'video',
     rating: 5
   },
@@ -27,7 +27,7 @@ export const COURSES: Course[] = [
     description: "یک جلسه ۱.۵ ساعته تدریس خصوصی و رفع اشکال با خانم فولادی. تمرکز بر نقاط ضعف دانش‌آموز و آمادگی شب امتحان.",
     price: 1500000,
     level: "همه مقاطع",
-    image: "https://picsum.photos/seed/calculus/800/600",
+    image: "https://picsum.photos/seed/mathcalculus/800/600",
     type: 'live',
     rating: 5
   },
@@ -37,7 +37,7 @@ export const COURSES: Course[] = [
     description: "آموزش تکنیک‌های پیشرفته تست‌زنی، روش‌های حل سریع و جمع‌بندی مباحث کلیدی برای قبولی در رشته‌های برتر مهندسی.",
     price: 15000000,
     level: "کنکوری",
-    image: "https://picsum.photos/seed/statistics/800/600",
+    image: "https://picsum.photos/seed/mathstatistics/800/600",
     type: 'video',
     rating: 5
   },
